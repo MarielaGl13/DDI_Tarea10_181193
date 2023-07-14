@@ -17,5 +17,5 @@
 |  Característica |  Información |
 | :------------: | :------------: |
 | Nombre  |  Tarea 10 |
-| Descripción  |   |
-|  Fecha de Carga |  |
+| Descripción  | Consumo de API de clima OpenWeather a través de la Implementación de retrofit.  |
+|  Fecha de Carga | 21/07/23  |
