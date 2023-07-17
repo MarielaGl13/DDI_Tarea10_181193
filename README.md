@@ -14,8 +14,8 @@
 
 &nbsp;
 &nbsp;
-|  Característica |  Información |
+|  Características |  Información |
 | :------------: | :------------: |
-| Nombre  |  Tarea 10 |
-| Descripción  | Consumo de API de clima OpenWeather a través de la Implementación de retrofit.  |
-|  Fecha de Carga | 21/07/23  |
+| **Nombre**  |  **Tarea 10.** *Consumo de API de clima OpenWeather a través de la Implementación de retrofit.* |
+| **Descripción**  | La aplicación "Temperatura Clima" para Wear OS es una aplicación que muestra la temperatura actual en tiempo real utilizando una API de clima confiable. Con su diseño claro y sus datos precisos, brinda a los usuarios una forma conveniente de acceder rápidamente a información relevante sobre la temperatura en su muñeca.  |
+|  **Fecha de Carga** | 21/07/23  |
